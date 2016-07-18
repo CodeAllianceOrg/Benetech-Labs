@@ -1,4 +1,4 @@
-# Labs
+![alt tag](benetech-labs-logo-icon.png)
 
 ### Category
 
