@@ -29,7 +29,7 @@ http://greenimpactcampaign.org/
 
 ## Specific Tasks
 
-*	(1-2 volunteers) Map API  
+*	Map API [https://github.com/CodeAllianceOrg/Labs/issues/1]
 *	Design/develop map API integration with Formidable form  
 *	Launch integration on website homepage and test functionality  
 *	(6-8 volunteers) GEMS UX Design and Prototype Creation
